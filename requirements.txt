@@ -1,0 +1,4 @@
+geopy
+ and 
+
+Exiftool software
